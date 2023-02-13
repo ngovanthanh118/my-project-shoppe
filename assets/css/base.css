@@ -1,0 +1,19 @@
+* {
+  box-sizing: inherit;
+}
+.html {
+  font-size: 62.5%;
+  font-family: "Roboto", sans-serif;
+  line-height: 1.6rem;
+  box-sizing: border-box;
+}
+:root {
+  --text-color: #fff;
+  --primary-color: #ee4d2d;
+  --pseudo-color: #f86c5c;
+  --white-color: #fff;
+  --black-color: #000;
+}
+.grid {
+  min-width: 1200px;
+}
